@@ -1,2 +1,2 @@
 # JavascriptProject
-This repo is the collection of all the javascript projects made by me while learning.
+A simple Rock Paper Scissors Game using the basics of javascript. 
